@@ -1,15 +1,15 @@
 /*-S-T-A-R-T--------------------*\
 |Clarity,blue period theme       |
 \*------------------------------*/
-
+@\import "https://valeriolyndon.github.io/MAL-Public-List-Designs/Clarity%20Theme/Theme%20-%20Compressed.css";
 /* - - - - - - - - - - - - - - -*\
   Variables
 \*- - - - - - - - - - - - - - - */
 
 :root {
 	/* Primary Customization */
-	--banner: url(https://i.imgur.com/WaLokPG.jpg);
-	--character: url(https://i.imgur.com/h8HW1jf.png);
+	--banner: url(https://i.imgur.com/OeTxtdT.png);
+	--character: url(https://i.imgur.com/4VzuroG.png);
 
 	/* Generic Colours */
 	--pbg: #9CB5C5;
