@@ -8,8 +8,8 @@
 
 :root {
 	/* Primary Customization */
-	--banner: url(https://i.imgur.com/WaLokPG.jpg)!important;
-	--character: url(https://i.imgur.com/h8HW1jf.png)!important;
+	--banner: url(https://i.imgur.com/WaLokPG.jpg);
+	--character: url(https://i.imgur.com/h8HW1jf.png);
 
 	/* Generic Colours */
 	--pbg: #9CB5C5;
